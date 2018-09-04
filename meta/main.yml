@@ -1,0 +1,17 @@
+galaxy_info:
+  author: Igor Stetsyuk
+  description: create users
+  company: ZEO
+  license: BSD
+  min_ansible_version: 1.9
+  platforms:
+  - name: Ubuntu
+    versions:
+    - bionic
+    - xenial
+    - trusty
+  galaxy_tags:
+    - users
+    - adduser
+    - rmuser
+dependencies: []
