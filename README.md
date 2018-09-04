@@ -58,4 +58,4 @@ BSD
 Author Information
 ------------------
 
-Created by Igor Stetsyuk
+Created by CHIP0K
