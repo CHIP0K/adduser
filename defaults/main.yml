@@ -1,5 +1,8 @@
 ---
 # defaults file for adduser
 users: users
-deployuser: false
+deploy_user: false
+reset_password: false
+set_password: false
+update_password: on_create
 ...
